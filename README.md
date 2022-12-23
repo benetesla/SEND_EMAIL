@@ -18,12 +18,3 @@ SEND EMAIL WITH MYSQL AND PHP
 
 **Front-end:** HTML CSS
 **BACKEND:** PHP MYSQL
-
-
-
-## Variáveis de Ambiente
-
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-`NPM START`
-
